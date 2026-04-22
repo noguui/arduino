@@ -1,7 +1,8 @@
 #laços de repetição
-a = 2
-b = 7
+import time
 
-while a > b:
-    print("entrou no loop")
-print("Passou do loop")
+contador = 0 
+while contador < 67:
+    print(contador)
+    contador += 1
+    time.sleep(0.01)
