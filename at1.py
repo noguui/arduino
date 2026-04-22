@@ -1,4 +1,5 @@
+#condiçao
 a = 2
-b = 7
+b = 5
 c = a + b
 print(c)
