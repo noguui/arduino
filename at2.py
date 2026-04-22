@@ -1,5 +1,5 @@
 #
-a = 2
+a = 8
 b = 7
 if a > b:
     print("a é maior que b")
